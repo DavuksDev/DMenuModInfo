@@ -1,3 +1,4 @@
+bbno$ - two;https://github.com/DavuksDev/DMenuModInfo/raw/refs/heads/main/bbno$%20-%20two%20(official%20music%20video).mp3
 Prowler;https://github.com/iiDk-the-actual/ModInfo/raw/main/prowler.mp3
 Ring Doorbell;https://github.com/iiDk-the-actual/ModInfo/raw/main/ring%20doorbell.mp3
 Ascension;https://github.com/iiDk-the-actual/ModInfo/raw/main/ascending.mp3
